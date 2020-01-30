@@ -1,5 +1,6 @@
 export const age = (planet, seconds) => {
   const earthSeconds = 31557600;
+
   const planets = {
     mercury: 0.2408467,
     venus: 0.61519726,

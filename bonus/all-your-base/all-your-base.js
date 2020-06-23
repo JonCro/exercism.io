@@ -1,1 +1,1 @@
-export const convert = ([...nums], orig, converter) => {};
+export const convert = (numInput, inputBase, outputBase) => {};
